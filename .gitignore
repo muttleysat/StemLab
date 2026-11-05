@@ -1,0 +1,7 @@
+.venv/
+dist/
+build/
+__pycache__/
+*.pyc
+# ffmpeg binaries exceed GitHub's 100MB per-file limit
+ffmpeg/*.exe
